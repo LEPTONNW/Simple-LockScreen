@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LockScreen FN", "LockScreen FN\LockScreen FN.csproj", "{A9AF97F4-00BF-4C71-B79C-89FEFA87278E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9AF97F4-00BF-4C71-B79C-89FEFA87278E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9AF97F4-00BF-4C71-B79C-89FEFA87278E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9AF97F4-00BF-4C71-B79C-89FEFA87278E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9AF97F4-00BF-4C71-B79C-89FEFA87278E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
